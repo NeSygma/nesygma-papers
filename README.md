@@ -22,6 +22,15 @@ NeSygma explores how neural networks and symbolic logic can be composed to yield
 | 6 | Arithmetic Reasoning with LLM: Prolog Generation & Permutation | https://arxiv.org/abs/2405.17893 |
 | 7 | InternLM2.5-StepProver: Advancing Automated Theorem Proving via Critic-Guided Search | https://arxiv.org/abs/2410.15700 |
 
+
+## Less Relevant Papers (Psychology/Cognitive Science)
+
+| # | Title | Link |
+| --- | --- | --- |
+| 1 | Dual Process Theory: Embodied and Predictive; Symbolic and Classical | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.805386/full |
+| 2 | Logic, Fast and Slow: Advances in Dual-Process Theorizing | https://journals.sagepub.com/doi/abs/10.1177/0963721419855658 |
+| 3 | Fast, Slow, and Metacognitive Thinking in AI | https://www.nature.com/articles/s44387-025-00027-5 |
+
 ## Book
 
 - Thinking, Fast and Slow (2011) — Kahneman
