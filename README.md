@@ -2,12 +2,12 @@
 
 NeSygma explores how neural networks and symbolic logic can be composed to yield interpretable, verifiable reasoning systems. This repo hosts reading notes and materials for a bachelor thesis.
 
-## Core Papers (focus set by us)
+## Core Papers 
 
 | Title | Link | Student |
 | --- | --- | --- |
 | LoRP: LLM-Based Logical Reasoning via Prolog | https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815 | Kevin |
-| Faithful Logical Reasoning via Symbolic Chain-of-Thought | https://arxiv.org/abs/2405.18357 | Devandra |
+| Faithful Chain-of-Thought Reasoning | https://arxiv.org/abs/2301.13379 | Devandra |
 | LOGIC-LM: Empowering Large Language Models with Symbolic Reasoning | https://arxiv.org/abs/2305.12295 | Iqza |
 
 ## Other Relevant Papers
@@ -21,6 +21,7 @@ NeSygma explores how neural networks and symbolic logic can be composed to yield
 | 5 | Chain-of-Symbol Prompting for Spatial Reasoning in Large Language Models | https://arxiv.org/abs/2305.10276 |
 | 6 | Arithmetic Reasoning with LLM: Prolog Generation & Permutation | https://arxiv.org/abs/2405.17893 |
 | 7 | InternLM2.5-StepProver: Advancing Automated Theorem Proving via Critic-Guided Search | https://arxiv.org/abs/2410.15700 |
+| 8 | Faithful Logical Reasoning via Symbolic Chain-of-Thought | https://arxiv.org/abs/2405.18357 
 
 
 ## Less Relevant Papers (Psychology/Cognitive Science)
