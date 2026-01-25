@@ -22,7 +22,8 @@ NeSygma explores how neural networks and symbolic logic can be composed to yield
 | 6 | Arithmetic Reasoning with LLM: Prolog Generation & Permutation | https://arxiv.org/abs/2405.17893 |
 | 7 | InternLM2.5-StepProver: Advancing Automated Theorem Proving via Critic-Guided Search | https://arxiv.org/abs/2410.15700 |
 | 8 | Faithful Logical Reasoning via Symbolic Chain-of-Thought | https://arxiv.org/abs/2405.18357 
-
+| 9 | Neuro-Symbolic RDF and Description Logic Reasoners | https://arxiv.org/abs/2308.04814
+| 10 | On the Potential of Logic and Reasoning in Neurosymbolic Systems Using OWL-Based Knowledge Graphs | https://journals.sagepub.com/doi/10.1177/29498732251320043
 
 ## Less Relevant Papers (Psychology/Cognitive Science)
 
