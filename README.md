@@ -23,6 +23,7 @@ NeSygma explores how neural networks and symbolic logic can be composed to yield
 | 7 | Faithful Logical Reasoning via Symbolic Chain-of-Thought | https://arxiv.org/abs/2405.18357 
 | 8 | Neuro-Symbolic RDF and Description Logic Reasoners | https://arxiv.org/abs/2308.04814
 | 9 | On the Potential of Logic and Reasoning in Neurosymbolic Systems Using OWL-Based Knowledge Graphs | https://journals.sagepub.com/doi/10.1177/29498732251320043
+| 10 | Fast, Slow, and Metacognitive Thinking in AI | https://www.nature.com/articles/s44387-025-00027-5 |
 
 ## Less Relevant Papers (Psychology/Cognitive Science)
 
@@ -30,7 +31,7 @@ NeSygma explores how neural networks and symbolic logic can be composed to yield
 | --- | --- | --- |
 | 1 | Dual Process Theory: Embodied and Predictive; Symbolic and Classical | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.805386/full |
 | 2 | Logic, Fast and Slow: Advances in Dual-Process Theorizing | https://journals.sagepub.com/doi/abs/10.1177/0963721419855658 |
-| 3 | Fast, Slow, and Metacognitive Thinking in AI | https://www.nature.com/articles/s44387-025-00027-5 |
+
 
 ## Benchmark
 
