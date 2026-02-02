@@ -44,3 +44,5 @@ NeSygma explores how neural networks and symbolic logic can be composed to yield
 ## Book
 
 - Thinking, Fast and Slow (2011) — Kahneman
+- Rationality and the Reflective Mind (2009) — Keith Stanovich
+- Cognitive Psychology (2012) — Robert Sternberg
