@@ -6,9 +6,9 @@ NeSygma explores how neural networks and symbolic logic can be composed to yield
 
 | Title | Link | Student |
 | --- | --- | --- |
-| LoRP: LLM-Based Logical Reasoning via Prolog | [https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815](https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815) | Kevin |
-| Faithful Chain-of-Thought Reasoning | [https://arxiv.org/abs/2301.13379](https://arxiv.org/abs/2301.13379) | Devandra |
-| LOGIC-LM: Empowering Large Language Models with Symbolic Reasoning | [https://arxiv.org/abs/2305.12295](https://arxiv.org/abs/2305.12295) | Iqza |
+| LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning + Dual Process Thinking | [https://arxiv.org/abs/2305.12295](https://arxiv.org/abs/2305.12295) | Kevin |
+| SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning | [https://arxiv.org/abs/2402.12806](https://arxiv.org/abs/2402.12806) | Devandra |
+| ChatLogic: Integrating Logic Programming with Large Language Models for Multi-Step Reasoning | [https://arxiv.org/abs/2407.10162](https://arxiv.org/abs/2407.10162) | Iqza |
 
 ## Other Relevant Papers
 
@@ -24,6 +24,7 @@ NeSygma explores how neural networks and symbolic logic can be composed to yield
 | 8 | Neuro-Symbolic RDF and Description Logic Reasoners | [https://arxiv.org/abs/2308.04814](https://arxiv.org/abs/2308.04814) |
 | 9 | On the Potential of Logic and Reasoning in Neurosymbolic Systems Using OWL-Based Knowledge Graphs | [https://journals.sagepub.com/doi/10.1177/29498732251320043](https://journals.sagepub.com/doi/10.1177/29498732251320043) |
 | 10 | Fast, Slow, and Metacognitive Thinking in AI | [https://www.nature.com/articles/s44387-025-00027-5](https://www.nature.com/articles/s44387-025-00027-5) |
+| 11 | LoRP: LLM-Based Logical Reasoning via Prolog | [https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815](https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815) |
 
 ## Less Relevant Papers (Psychology/Cognitive Science)
 
