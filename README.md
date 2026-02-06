@@ -1,6 +1,4 @@
-# NeSygma: Neuro-Symbolic AI for Logical Reasoning
-
-NeSygma explores how neural networks and symbolic logic can be composed to yield interpretable, verifiable reasoning systems. This repo hosts reading notes and materials for a bachelor thesis.
+# NeSygma: SOFAI Framework for Adaptive Logical Reasoning with Heterogeneous Symbolic Solvers
 
 ## Main Paper
 
