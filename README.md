@@ -2,10 +2,10 @@
 
 ## Main Paper
 
-| Title | Link |
-| --- | --- |
-| LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning | [https://arxiv.org/abs/2305.12295](https://arxiv.org/abs/2305.12295) |
-| Fast, Slow, and Metacognitive Thinking in AI | [https://www.nature.com/articles/s44387-025-00027-5](https://www.nature.com/articles/s44387-025-00027-5) |
+| Title | Link | GitHub |
+| --- | --- | --- |
+| LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning | [https://arxiv.org/abs/2305.12295](https://arxiv.org/abs/2305.12295) | [https://github.com/teacherpeterpan/Logic-LLM](https://github.com/teacherpeterpan/Logic-LLM) |
+| Fast, Slow, and Metacognitive Thinking in AI | [https://www.nature.com/articles/s44387-025-00027-5](https://www.nature.com/articles/s44387-025-00027-5) | [https://github.com/aloreggia/sofai](https://github.com/aloreggia/sofai) |
 
 ## Other Relevant Papers
 
