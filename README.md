@@ -25,6 +25,7 @@
 | 12 | LoRP: LLM-Based Logical Reasoning via Prolog | [https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815](https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815) |
 | 13 | Dual Process Theory: Embodied and Predictive; Symbolic and Classical | [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.805386/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.805386/full) |
 | 14 | Logic, Fast and Slow: Advances in Dual-Process Theorizing | [https://journals.sagepub.com/doi/abs/10.1177/0963721419855658](https://journals.sagepub.com/doi/abs/10.1177/0963721419855658) |
+| 15 | Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation | [https://arxiv.org/abs/2302.09664](https://arxiv.org/abs/2302.09664) |
 
 ## Benchmark
 
