@@ -13,15 +13,22 @@
 | --- | --- | --- |
 | 1 | Neuro-symbolic agentic AI: Architectures, integration patterns, applications, open challenges and future research directions | [https://www.sciencedirect.com/science/article/abs/pii/S1574013726000110](https://www.sciencedirect.com/science/article/abs/pii/S1574013726000110) |
 | 2 | Metacognitive AI: Framework and the Case for a Neurosymbolic Approach | [https://arxiv.org/abs/2406.12147](https://arxiv.org/abs/2406.12147) |
-| 3 | Think Just Enough: Sequence-Level Entropy as a Confidence Signal for LLM Reasoning | [https://arxiv.org/abs/2510.08146](https://arxiv.org/abs/2510.08146) |
 | 4 | Imagining and building wise machines: The centrality of AI metacognition | [https://arxiv.org/abs/2411.02478](https://arxiv.org/abs/2411.02478) |
 | 5 | Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving | [https://arxiv.org/abs/2405.12205](https://arxiv.org/abs/2405.12205) |
-| 6 | Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation | [https://arxiv.org/abs/2302.09664](https://arxiv.org/abs/2302.09664) |
-| 7 | Decoupling Metacognition from Cognition | [https://dl.acm.org/doi/10.1609/aaai.v39i24.34723](https://dl.acm.org/doi/10.1609/aaai.v39i24.34723) |
-| 8 | Faithful Logical Reasoning via Symbolic Chain-of-Thought | [https://arxiv.org/abs/2405.18357](https://arxiv.org/abs/2405.18357) |
-| 9 | Large Language Models are Zero-Shot Reasoners | [https://arxiv.org/abs/2205.11916](https://arxiv.org/abs/2205.11916) |
-| 10 | LEAST-TO-MOST PROMPTING | [https://arxiv.org/abs/2205.10625](https://arxiv.org/abs/2205.10625) |
-| 11 | Unleashing the Emergent Cognitive Synergy in Large Language Models | [https://arxiv.org/abs/2307.05300](https://arxiv.org/abs/2307.05300) |
+| 6 | Decoupling Metacognition from Cognition | [https://dl.acm.org/doi/10.1609/aaai.v39i24.34723](https://dl.acm.org/doi/10.1609/aaai.v39i24.34723) |
+
+## Metacognition Kevin
+
+| # | Title | Link |
+| --- | --- | --- |
+| 1 | Think Just Enough: Sequence-Level Entropy as a Confidence Signal for LLM Reasoning | [https://arxiv.org/abs/2510.08146](https://arxiv.org/abs/2510.08146) |
+| 2 | Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation | [https://arxiv.org/abs/2302.09664](https://arxiv.org/abs/2302.09664) |
+| 3 | Detecting hallucinations in large language models using semantic entropy | [https://www.nature.com/articles/s41586-024-07421-0](https://www.nature.com/articles/s41586-024-07421-0) |
+| 4 | Faithful Logical Reasoning via Symbolic Chain-of-Thought | [https://arxiv.org/abs/2405.18357](https://arxiv.org/abs/2405.18357) |
+| 5 | Large Language Models are Zero-Shot Reasoners | [https://arxiv.org/abs/2205.11916](https://arxiv.org/abs/2205.11916) |
+| 6 | LEAST-TO-MOST PROMPTING | [https://arxiv.org/abs/2205.10625](https://arxiv.org/abs/2205.10625) |
+| 7 | Unleashing the Emergent Cognitive Synergy in Large Language Models | [https://arxiv.org/abs/2307.05300](https://arxiv.org/abs/2307.05300) |
+| 8 | On Verbalized Confidence Scores for LLMs | [https://arxiv.org/abs/2412.14737](https://arxiv.org/abs/2412.14737) |
 
 ## Other Relevant Papers
 
