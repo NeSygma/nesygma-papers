@@ -13,9 +13,10 @@
 | --- | --- | --- |
 | 1 | Neuro-symbolic agentic AI: Architectures, integration patterns, applications, open challenges and future research directions | [https://www.sciencedirect.com/science/article/abs/pii/S1574013726000110](https://www.sciencedirect.com/science/article/abs/pii/S1574013726000110) |
 | 2 | Metacognitive AI: Framework and the Case for a Neurosymbolic Approach | [https://arxiv.org/abs/2406.12147](https://arxiv.org/abs/2406.12147) |
-| 4 | Imagining and building wise machines: The centrality of AI metacognition | [https://arxiv.org/abs/2411.02478](https://arxiv.org/abs/2411.02478) |
-| 5 | Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving | [https://arxiv.org/abs/2405.12205](https://arxiv.org/abs/2405.12205) |
-| 6 | Decoupling Metacognition from Cognition | [https://dl.acm.org/doi/10.1609/aaai.v39i24.34723](https://dl.acm.org/doi/10.1609/aaai.v39i24.34723) |
+| 3 | Imagining and building wise machines: The centrality of AI metacognition | [https://arxiv.org/abs/2411.02478](https://arxiv.org/abs/2411.02478) |
+| 4 | Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving | [https://arxiv.org/abs/2405.12205](https://arxiv.org/abs/2405.12205) |
+| 5 | Decoupling Metacognition from Cognition | [https://dl.acm.org/doi/10.1609/aaai.v39i24.34723](https://dl.acm.org/doi/10.1609/aaai.v39i24.34723) |
+| 6 | Computational Metacognition | [https://arxiv.org/abs/2201.12885](https://arxiv.org/abs/2201.12885) |
 
 ## Metacognition Kevin
 
