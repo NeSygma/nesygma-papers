@@ -30,6 +30,7 @@
 | 6 | LEAST-TO-MOST PROMPTING | [https://arxiv.org/abs/2205.10625](https://arxiv.org/abs/2205.10625) |
 | 7 | Unleashing the Emergent Cognitive Synergy in Large Language Models | [https://arxiv.org/abs/2307.05300](https://arxiv.org/abs/2307.05300) |
 | 8 | On Verbalized Confidence Scores for LLMs | [https://arxiv.org/abs/2412.14737](https://arxiv.org/abs/2412.14737) |
+| 9 | Metacognitive Prompting Improves Understanding in Large Language Models | [https://arxiv.org/abs/2308.05342](https://arxiv.org/abs/2308.05342) |
 
 ## Other Relevant Papers
 
