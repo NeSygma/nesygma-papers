@@ -48,6 +48,8 @@
 | 10 | LoRP: LLM-Based Logical Reasoning via Prolog | [https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815](https://www.sciencedirect.com/science/article/abs/pii/S0950705125011815) |
 | 11 | Dual Process Theory: Embodied and Predictive; Symbolic and Classical | [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.805386/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.805386/full) |
 | 12 | Logic, Fast and Slow: Advances in Dual-Process Theorizing | [https://journals.sagepub.com/doi/abs/10.1177/0963721419855658](https://journals.sagepub.com/doi/abs/10.1177/0963721419855658) |
+| 13 | Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models | [https://arxiv.org/pdf/2508.13678](https://arxiv.org/pdf/2508.13678) |
+| 14 | Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming | [https://arxiv.org/pdf/2505.21486v1](https://arxiv.org/pdf/2505.21486v1) |
 
 ## Benchmark
 
