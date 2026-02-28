@@ -17,6 +17,7 @@
 | 4 | Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving | [https://arxiv.org/abs/2405.12205](https://arxiv.org/abs/2405.12205) |
 | 5 | Decoupling Metacognition from Cognition | [https://dl.acm.org/doi/10.1609/aaai.v39i24.34723](https://dl.acm.org/doi/10.1609/aaai.v39i24.34723) |
 | 6 | Computational Metacognition | [https://arxiv.org/abs/2201.12885](https://arxiv.org/abs/2201.12885) |
+| 7 | Lexical Hints of Accuracy in LLM Reasoning Chains | [https://arxiv.org/pdf/2508.15842](https://arxiv.org/pdf/2508.15842) |
 
 ## Metacognition Kevin
 
