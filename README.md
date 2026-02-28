@@ -60,6 +60,7 @@
 | 1 | ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning | [https://arxiv.org/abs/2502.01100](https://arxiv.org/abs/2502.01100) |
 | 2 | Liar, Liar, Logical Mire: A Benchmark for Suppositional Reasoning in Large Language Models | [https://arxiv.org/abs/2406.12546](https://arxiv.org/abs/2406.12546) |
 | 3 | RiddleBench: A New Generative Reasoning Benchmark for LLMs | [https://arxiv.org/abs/2510.24932](https://arxiv.org/abs/2510.24932) |
+| 4 | LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification | [https://arxiv.org/abs/2602.21044](https://arxiv.org/abs/2602.21044) |
 
 ## Book
 
