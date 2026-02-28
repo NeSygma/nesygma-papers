@@ -31,6 +31,7 @@
 | 7 | Unleashing the Emergent Cognitive Synergy in Large Language Models | [https://arxiv.org/abs/2307.05300](https://arxiv.org/abs/2307.05300) |
 | 8 | On Verbalized Confidence Scores for LLMs | [https://arxiv.org/abs/2412.14737](https://arxiv.org/abs/2412.14737) |
 | 9 | Metacognitive Prompting Improves Understanding in Large Language Models | [https://arxiv.org/abs/2308.05342](https://arxiv.org/abs/2308.05342) |
+| 10 | Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models | [https://arxiv.org/pdf/2505.13143](https://arxiv.org/pdf/2505.13143) |
 
 ## Other Relevant Papers
 
