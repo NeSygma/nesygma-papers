@@ -7,6 +7,19 @@
 | LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning | [https://arxiv.org/abs/2305.12295](https://arxiv.org/abs/2305.12295) | [https://github.com/teacherpeterpan/Logic-LLM](https://github.com/teacherpeterpan/Logic-LLM) |
 | Fast, Slow, and Metacognitive Thinking in AI | [https://www.nature.com/articles/s44387-025-00027-5](https://www.nature.com/articles/s44387-025-00027-5) | [https://github.com/aloreggia/sofai](https://github.com/aloreggia/sofai) |
 
+## paper kevin
+
+| # | Title | Link |
+| --- | --- | --- |
+| 1 | ASP-Bench: From Natural Language to Logic Programs | [https://arxiv.org/abs/2602.01171](https://arxiv.org/abs/2602.01171) |
+| 2 | Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text | [https://aclanthology.org/2023.findings-acl.321/](https://aclanthology.org/2023.findings-acl.321/) |
+| 3 | A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving | [https://arxiv.org/abs/2512.17093](https://arxiv.org/abs/2512.17093) |
+| 4 | Leveraging Large Language Models to Generate Answer Set Programs | [https://arxiv.org/abs/2307.07699](https://arxiv.org/abs/2307.07699) |
+| 5 | LLASP: Fine-tuning Large Language Models for Answer Set Programming | [https://arxiv.org/abs/2407.18723](https://arxiv.org/abs/2407.18723) |
+| 6 | Divide and Translate: Compositional FOL Translation and Verification for Complex Logical Reasoning | [https://arxiv.org/abs/2410.08047](https://arxiv.org/abs/2410.08047) |
+| 7 | FoVer: First-Order Logic Verification for Natural Language Reasoning | [https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.41/133797/FoVer-First-Order-Logic-Verification-for-Natural](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.41/133797/FoVer-First-Order-Logic-Verification-for-Natural) |
+| 8 | SATLM: Satisfiability-Aided Language Models Using Declarative Prompting | [https://arxiv.org/abs/2305.09656](https://arxiv.org/abs/2305.09656) |
+
 ## Metacognition Paper
 
 | # | Title | Link |
@@ -18,21 +31,6 @@
 | 5 | Decoupling Metacognition from Cognition | [https://dl.acm.org/doi/10.1609/aaai.v39i24.34723](https://dl.acm.org/doi/10.1609/aaai.v39i24.34723) |
 | 6 | Computational Metacognition | [https://arxiv.org/abs/2201.12885](https://arxiv.org/abs/2201.12885) |
 | 7 | Lexical Hints of Accuracy in LLM Reasoning Chains | [https://arxiv.org/pdf/2508.15842](https://arxiv.org/pdf/2508.15842) |
-
-## Metacognition Kevin
-
-| # | Title | Link |
-| --- | --- | --- |
-| 1 | Think Just Enough: Sequence-Level Entropy as a Confidence Signal for LLM Reasoning | [https://arxiv.org/abs/2510.08146](https://arxiv.org/abs/2510.08146) |
-| 2 | Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation | [https://arxiv.org/abs/2302.09664](https://arxiv.org/abs/2302.09664) |
-| 3 | Detecting hallucinations in large language models using semantic entropy | [https://www.nature.com/articles/s41586-024-07421-0](https://www.nature.com/articles/s41586-024-07421-0) |
-| 4 | Faithful Logical Reasoning via Symbolic Chain-of-Thought | [https://arxiv.org/abs/2405.18357](https://arxiv.org/abs/2405.18357) |
-| 5 | Large Language Models are Zero-Shot Reasoners | [https://arxiv.org/abs/2205.11916](https://arxiv.org/abs/2205.11916) |
-| 6 | LEAST-TO-MOST PROMPTING | [https://arxiv.org/abs/2205.10625](https://arxiv.org/abs/2205.10625) |
-| 7 | Unleashing the Emergent Cognitive Synergy in Large Language Models | [https://arxiv.org/abs/2307.05300](https://arxiv.org/abs/2307.05300) |
-| 8 | On Verbalized Confidence Scores for LLMs | [https://arxiv.org/abs/2412.14737](https://arxiv.org/abs/2412.14737) |
-| 9 | Metacognitive Prompting Improves Understanding in Large Language Models | [https://arxiv.org/abs/2308.05342](https://arxiv.org/abs/2308.05342) |
-| 10 | Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models | [https://arxiv.org/pdf/2505.13143](https://arxiv.org/pdf/2505.13143) |
 
 ## Other Relevant Papers
 
