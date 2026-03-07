@@ -20,7 +20,6 @@
 | 7 | FoVer: First-Order Logic Verification for Natural Language Reasoning | [https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.41/133797/FoVer-First-Order-Logic-Verification-for-Natural](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.41/133797/FoVer-First-Order-Logic-Verification-for-Natural) |
 | 8 | SATLM: Satisfiability-Aided Language Models Using Declarative Prompting | [https://arxiv.org/abs/2305.09656](https://arxiv.org/abs/2305.09656) |
 | 9 | MCP-Solver: Integrating Language Models with Constraint Programming Systems | [https://arxiv.org/abs/2501.00539](https://arxiv.org/abs/2501.00539) |
-| 10 | Neurosymbolic Language Reasoning as Satisfiability Modulo Theory | [https://arxiv.org/abs/2602.18095v1](https://arxiv.org/abs/2602.18095v1) |
 
 ## Metacognition Paper
 
