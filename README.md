@@ -11,15 +11,17 @@
 
 | # | Title | Link |
 | --- | --- | --- |
-| 1 | ASP-Bench: From Natural Language to Logic Programs | [https://arxiv.org/abs/2602.01171](https://arxiv.org/abs/2602.01171) |
-| 2 | Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text | [https://aclanthology.org/2023.findings-acl.321/](https://aclanthology.org/2023.findings-acl.321/) |
-| 3 | A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving | [https://arxiv.org/abs/2512.17093](https://arxiv.org/abs/2512.17093) |
-| 4 | Leveraging Large Language Models to Generate Answer Set Programs | [https://arxiv.org/abs/2307.07699](https://arxiv.org/abs/2307.07699) |
-| 5 | LLASP: Fine-tuning Large Language Models for Answer Set Programming | [https://arxiv.org/abs/2407.18723](https://arxiv.org/abs/2407.18723) |
-| 6 | Divide and Translate: Compositional FOL Translation and Verification for Complex Logical Reasoning | [https://arxiv.org/abs/2410.08047](https://arxiv.org/abs/2410.08047) |
-| 7 | FoVer: First-Order Logic Verification for Natural Language Reasoning | [https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.41/133797/FoVer-First-Order-Logic-Verification-for-Natural](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.41/133797/FoVer-First-Order-Logic-Verification-for-Natural) |
-| 8 | SATLM: Satisfiability-Aided Language Models Using Declarative Prompting | [https://arxiv.org/abs/2305.09656](https://arxiv.org/abs/2305.09656) |
-| 9 | MCP-Solver: Integrating Language Models with Constraint Programming Systems | [https://arxiv.org/abs/2501.00539](https://arxiv.org/abs/2501.00539) |
+| 1 | **ASP-Bench: From Natural Language to Logic Programs (Clingo)** | [https://arxiv.org/abs/2602.01171](https://arxiv.org/abs/2602.01171) |
+| 2 | **MCP-Solver: Integrating Language Models with Constraint Programming Systems (Z3 and Clingo)** | [https://arxiv.org/abs/2501.00539](https://arxiv.org/abs/2501.00539) |
+| 3 | **Entailment-Preserving First-order Logic Representations in Natural Language Entailment (Vampire)** | [https://aclanthology.org/2025.acl-long.286/](https://aclanthology.org/2025.acl-long.286/) |
+| 4 | **Automated Theorem Provers Help Improve Large Language Model Reasoning (Vampire)** | [https://arxiv.org/abs/2408.03492](https://arxiv.org/abs/2408.03492) |
+| 5 | Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text | [https://aclanthology.org/2023.findings-acl.321/](https://aclanthology.org/2023.findings-acl.321/) |
+| 6 | A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving | [https://arxiv.org/abs/2512.17093](https://arxiv.org/abs/2512.17093) |
+| 7 | Leveraging Large Language Models to Generate Answer Set Programs | [https://arxiv.org/abs/2307.07699](https://arxiv.org/abs/2307.07699) |
+| 8 | LLASP: Fine-tuning Large Language Models for Answer Set Programming | [https://arxiv.org/abs/2407.18723](https://arxiv.org/abs/2407.18723) |
+| 9 | Divide and Translate: Compositional FOL Translation and Verification for Complex Logical Reasoning | [https://arxiv.org/abs/2410.08047](https://arxiv.org/abs/2410.08047) |
+| 10 | FoVer: First-Order Logic Verification for Natural Language Reasoning | [https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.41/133797/FoVer-First-Order-Logic-Verification-for-Natural](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.41/133797/FoVer-First-Order-Logic-Verification-for-Natural) |
+| 11 | SATLM: Satisfiability-Aided Language Models Using Declarative Prompting | [https://arxiv.org/abs/2305.09656](https://arxiv.org/abs/2305.09656) |
 
 ## Metacognition Paper
 
