@@ -59,10 +59,11 @@
 
 | # | Title | Link |
 | --- | --- | --- |
-| 1 | ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning | [https://arxiv.org/abs/2502.01100](https://arxiv.org/abs/2502.01100) |
-| 2 | Liar, Liar, Logical Mire: A Benchmark for Suppositional Reasoning in Large Language Models | [https://arxiv.org/abs/2406.12546](https://arxiv.org/abs/2406.12546) |
-| 3 | RiddleBench: A New Generative Reasoning Benchmark for LLMs | [https://arxiv.org/abs/2510.24932](https://arxiv.org/abs/2510.24932) |
-| 4 | LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification | [https://arxiv.org/abs/2602.21044](https://arxiv.org/abs/2602.21044) |
+| 1 | ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning (2025) | [https://arxiv.org/abs/2502.01100](https://arxiv.org/abs/2502.01100) |
+| 2 | ASP-Bench: From Natural Language to Logic Programs (2026) | [https://arxiv.org/abs/2602.01171](https://arxiv.org/abs/2602.01171) |
+| 3 | LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification (2026) | [https://arxiv.org/abs/2602.21044](https://arxiv.org/abs/2602.21044) |
+| 4 | LogicBench: Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models (2024) | [https://arxiv.org/pdf/2404.15522](https://arxiv.org/pdf/2404.15522) |
+| 5 | SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas (2025) | [https://arxiv.org/pdf/2505.14615](https://arxiv.org/pdf/2505.14615) |
 
 ## Book
 
