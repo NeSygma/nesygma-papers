@@ -1,4 +1,4 @@
-# NeSygma: SOFAI Framework for Adaptive Logical Reasoning with Heterogeneous Symbolic Solvers
+# Think Fast, Reason Slow: A Metacognitive Architecture for Neuro-Symbolic Reasoning
 
 ## Main Paper
 
