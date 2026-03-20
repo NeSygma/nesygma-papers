@@ -1,4 +1,4 @@
-# Think Fast, Reason Slow: A Metacognitive Neuro-Symbolic Architecture for Logical Reasoning
+# Think Fast, Reason Slow: Metacognitive Control of a Neuro-Symbolic Architecture for Logical Reasoning
 
 ## Main Paper
 
