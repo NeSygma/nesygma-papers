@@ -1,4 +1,4 @@
-# Think Fast, Reason Slow: A Metacognitive Architecture for Neuro-Symbolic Reasoning
+# Think Fast, Reason Slow: A Neuro-Symbolic Architecture with Metacognitive Control for Logical Reasoning
 
 ## Main Paper
 
@@ -36,6 +36,7 @@
 | # | Title | Link |
 | --- | --- | --- |
 | 1 | **Adaptive LLM-Symbolic Reasoning via Dynamic Logical Solver Composition** | [https://arxiv.org/pdf/2510.06774](https://arxiv.org/pdf/2510.06774) |
+| 2 | **Adaptive Selection of Symbolic Languages for Improving LLM Logical Reasoning** | [https://arxiv.org/abs/2510.10703](https://arxiv.org/abs/2510.10703) |
 
 ## Benchmark
 
@@ -84,4 +85,3 @@
 ## Book
 
 - Thinking, Fast and Slow (2011) — Kahneman
-- The Cambridge Handbook of Computational Cognitive Sciences (2023) — Ron Sun
