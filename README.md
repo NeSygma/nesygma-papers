@@ -15,6 +15,8 @@
 | 3 | **Investigating the Robustness of Deductive Reasoning with Large Language Models(Vampire)** | [https://arxiv.org/pdf/2502.04352](https://arxiv.org/pdf/2502.04352) |
 | 4 | **Entailment-Preserving First-order Logic Representations in Natural Language Entailment (Vampire)** | [https://aclanthology.org/2025.acl-long.286/](https://aclanthology.org/2025.acl-long.286/) |
 | 5 | **Automated Theorem Provers Help Improve Large Language Model Reasoning (Vampire)** | [https://arxiv.org/abs/2408.03492](https://arxiv.org/abs/2408.03492) |
+| 6 | **The Vampire Diary** | [https://arxiv.org/abs/2506.03030](https://arxiv.org/abs/2506.03030) |
+| 7 | **The SZS Ontologies for Automated Reasoning Software. In: LPAR Workshops (2008)** | [https://www.cs.miami.edu/home/geoff/Papers/Conference/2008_Sut08_KEAPPA-38-49.pdf](https://www.cs.miami.edu/home/geoff/Papers/Conference/2008_Sut08_KEAPPA-38-49.pdf) |
 
 ## paper Iqza
 
