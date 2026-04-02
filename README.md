@@ -48,6 +48,27 @@
 | 8 | SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas (2025) | [https://arxiv.org/pdf/2505.14615](https://arxiv.org/pdf/2505.14615) |
 | 9 | PuzzleClone: An SMT-Powered Framework for Synthesizing Verifiable Data (2025) | [https://arxiv.org/pdf/2508.15180](https://arxiv.org/pdf/2508.15180) |
 
+## Vampire 5.0.1
+
+| # | Title | Link |
+| --- | --- | --- |
+| 1 | **The Vampire Diary** | [https://arxiv.org/pdf/2506.03030](https://arxiv.org/pdf/2506.03030) |
+| 2 | **The SZS Ontologies for Automated Reasoning Software** | [https://www.cs.miami.edu/home/geoff/Papers/Conference/2008_Sut08_KEAPPA-38-49.pdf](https://www.cs.miami.edu/home/geoff/Papers/Conference/2008_Sut08_KEAPPA-38-49.pdf) |
+| 3 | **First-Order Theorem Proving and Vampire** | [https://movep2022.cs.aau.dk/slides/LauraKovacs-3-movep2022.pdf](https://movep2022.cs.aau.dk/slides/LauraKovacs-3-movep2022.pdf) |
+
+## Clingo 5.8.0
+
+| # | Title | Link |
+| --- | --- | --- |
+| 1 | **Multi-shot ASP solving with Clingo** | [https://arxiv.org/pdf/1705.09811](https://arxiv.org/pdf/1705.09811) |
+| 2 | **Theory Solving made easy with Clingo 5** | [https://www.cs.uni-potsdam.de/wv/publications/DBLP_conf/iclp/GebserKKOSW16x.pdf](https://www.cs.uni-potsdam.de/wv/publications/DBLP_conf/iclp/GebserKKOSW16x.pdf) |
+
+## Z3 4.16.0.0
+
+| # | Title | Link |
+| --- | --- | --- |
+| 1 | **Z3: An Efficient SMT Solver** | [https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24](https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24) |
+
 ## Metacognition Paper
 
 | # | Title | Link |
