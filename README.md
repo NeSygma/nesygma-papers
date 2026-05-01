@@ -41,12 +41,6 @@
 | 1 | **ASP-Bench: From Natural Language to Logic Programs (2026)** | [https://arxiv.org/abs/2602.01171](https://arxiv.org/abs/2602.01171) |
 | 2 | **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models (AR_LSAT) (2023)** | [https://arxiv.org/abs/2304.06364](https://arxiv.org/abs/2304.06364) |
 | 3 | **FOLIO: Natural Language Reasoning with First-Order Logic(2022)** | [https://arxiv.org/abs/2209.00840](https://arxiv.org/abs/2209.00840) |
-| 4 | Multi-LogiEval: Towards Evaluating Multi-Step Logical Reasoning Ability of Large Language Models (2024) | [https://aclanthology.org/2024.emnlp-main.1160.pdf](https://aclanthology.org/2024.emnlp-main.1160.pdf) |
-| 5 | ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning (2025) | [https://arxiv.org/abs/2502.01100](https://arxiv.org/abs/2502.01100) |
-| 6 | LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification (2026) | [https://arxiv.org/abs/2602.21044](https://arxiv.org/abs/2602.21044) |
-| 7 | LogicBench: Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models (2024) | [https://arxiv.org/pdf/2404.15522](https://arxiv.org/pdf/2404.15522) |
-| 8 | SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas (2025) | [https://arxiv.org/pdf/2505.14615](https://arxiv.org/pdf/2505.14615) |
-| 9 | PuzzleClone: An SMT-Powered Framework for Synthesizing Verifiable Data (2025) | [https://arxiv.org/pdf/2508.15180](https://arxiv.org/pdf/2508.15180) |
 
 ## Vampire 5.0.1
 
@@ -68,6 +62,18 @@
 | # | Title | Link |
 | --- | --- | --- |
 | 1 | **Z3: An Efficient SMT Solver** | [https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24](https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24) |
+
+## LLM
+
+| # | Title | Link |
+| --- | --- | --- |
+| 1 | **gpt oss 120b and 20b** | [https://arxiv.org/pdf/2508.10925](https://arxiv.org/pdf/2508.10925) |
+| 2 | **gemini 3.1 flash lite** | [https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-1-Flash-Lite-Model-Card.pdf](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-1-Flash-Lite-Model-Card.pdf) |
+| 3 | **Deepseek V4** | [https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) |
+| 4 | **Mimo V2 Flash** | [https://arxiv.org/pdf/2601.02780](https://arxiv.org/pdf/2601.02780) |
+| 5 | **Mimo V2.5 Pro** | [https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) |
+| 6 | **Mistral Small 4 119B** | [https://huggingface.co/mistralai/Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) |
+| 7 | **Nvidia Nemotron Nano 30B** | [https://arxiv.org/pdf/2512.20848](https://arxiv.org/pdf/2512.20848) |
 
 ## Metacognition Paper
 
